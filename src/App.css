@@ -1,0 +1,25 @@
+body {
+  background: url('./images/aaron-burden-ESljnluX4FA-unsplash.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+}
+.card {
+  background: url('./images/joanna-kosinska-mjC9apK53a8-unsplash.jpg');
+  height: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  box-shadow: inset 0 0 10px #000000, 1px 1px 5px 5px rgba(68, 68, 68, 0.6);
+  justify-content: center;
+}
+
+#text {
+  font-size: 2rem;
+  font-weight: 500;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#author {
+  font-size: 1.5rem;
+  font-style: italic;
+}
