@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Random_Quote_Machine_React/static/css/main.ac131f97.chunk.css",
+    "main.js": "/Random_Quote_Machine_React/static/js/main.b9cb4eac.chunk.js",
+    "main.js.map": "/Random_Quote_Machine_React/static/js/main.b9cb4eac.chunk.js.map",
+    "runtime~main.js": "/Random_Quote_Machine_React/static/js/runtime~main.ad4402b1.js",
+    "runtime~main.js.map": "/Random_Quote_Machine_React/static/js/runtime~main.ad4402b1.js.map",
+    "static/css/2.9296d41f.chunk.css": "/Random_Quote_Machine_React/static/css/2.9296d41f.chunk.css",
+    "static/js/2.eb456cee.chunk.js": "/Random_Quote_Machine_React/static/js/2.eb456cee.chunk.js",
+    "static/js/2.eb456cee.chunk.js.map": "/Random_Quote_Machine_React/static/js/2.eb456cee.chunk.js.map",
+    "index.html": "/Random_Quote_Machine_React/index.html",
+    "precache-manifest.53c79550af47318678e995ba5eaca450.js": "/Random_Quote_Machine_React/precache-manifest.53c79550af47318678e995ba5eaca450.js",
+    "service-worker.js": "/Random_Quote_Machine_React/service-worker.js",
+    "static/css/2.9296d41f.chunk.css.map": "/Random_Quote_Machine_React/static/css/2.9296d41f.chunk.css.map",
+    "static/css/main.ac131f97.chunk.css.map": "/Random_Quote_Machine_React/static/css/main.ac131f97.chunk.css.map",
+    "static/media/App.css": "/Random_Quote_Machine_React/static/media/joanna-kosinska-mjC9apK53a8-unsplash.bb54ad95.jpg",
+    "static/media/index.css": "/Random_Quote_Machine_React/static/media/roboto-latin-900italic.bc833e72.woff"
+  }
+}
